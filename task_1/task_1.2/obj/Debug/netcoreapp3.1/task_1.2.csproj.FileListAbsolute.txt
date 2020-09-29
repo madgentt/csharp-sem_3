@@ -1,0 +1,12 @@
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.exe
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.deps.json
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.runtimeconfig.json
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.runtimeconfig.dev.json
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.dll
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\bin\Debug\netcoreapp3.1\task_1.2.pdb
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.AssemblyInfo.cs
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.dll
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.pdb
+C:\Users\artem\source\repos\csharp-sem_3\task_1\task_1.2\obj\Debug\netcoreapp3.1\task_1.2.genruntimeconfig.cache
