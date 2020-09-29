@@ -4,8 +4,11 @@
     "\\pr_1",
     "\\pr_1\\task_1",
     "\\pr_1\\task_1\\task_1.1",
-    "\\pr_1\\task_1\\task_1.2"
+    "\\pr_1\\task_1\\task_1.2",
+    "\\pr_2",
+    "\\pr_2\\task_1",
+    "\\pr_2\\task_1\\task_1.2"
   ],
-  "SelectedNode": "\\pr_1\\task_1\\task_1.1\\Program.cs",
+  "SelectedNode": "\\pr_2\\task_1\\task_1.2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
