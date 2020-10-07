@@ -15,6 +15,7 @@ namespace pr_04_05
             countryLookup[64] = "New Zealand";
             foreach (KeyValuePair<int, String> item in countryLookup)
             {
+
                 int code = item.Key;
                 string country = item.Value;
                 Console.WriteLine("Code {0} = {1}", code, country);
