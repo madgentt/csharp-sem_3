@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Source\\Repos\\csharp-sem_3\\pr_1\\task_1\\task_1.1\\task_1.1.csproj": {}
+    "C:\\Users\\student\\source\\repos\\csharp-sem_3\\pr_5\\task_1\\task_1.3\\task_1.3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Source\\Repos\\csharp-sem_3\\pr_1\\task_1\\task_1.1\\task_1.1.csproj": {
+    "C:\\Users\\student\\source\\repos\\csharp-sem_3\\pr_5\\task_1\\task_1.3\\task_1.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Source\\Repos\\csharp-sem_3\\pr_1\\task_1\\task_1.1\\task_1.1.csproj",
-        "projectName": "task_1.1",
-        "projectPath": "C:\\Users\\student\\Source\\Repos\\csharp-sem_3\\pr_1\\task_1\\task_1.1\\task_1.1.csproj",
+        "projectUniqueName": "C:\\Users\\student\\source\\repos\\csharp-sem_3\\pr_5\\task_1\\task_1.3\\task_1.3.csproj",
+        "projectName": "task_1.3",
+        "projectPath": "C:\\Users\\student\\source\\repos\\csharp-sem_3\\pr_5\\task_1\\task_1.3\\task_1.3.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Source\\Repos\\csharp-sem_3\\pr_1\\task_1\\task_1.1\\obj\\",
+        "outputPath": "C:\\Users\\student\\source\\repos\\csharp-sem_3\\pr_5\\task_1\\task_1.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
