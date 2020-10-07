@@ -8,7 +8,6 @@ namespace pr_04_05
         static void Main(string[] args)
         {
             Dictionary<int, String> countryLookup = new Dictionary<int, string>();
-
             countryLookup[44] = "United Kingdom";
             countryLookup[33] = "France";
             countryLookup[31] = "Netherlands";
