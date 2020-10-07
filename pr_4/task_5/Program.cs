@@ -14,7 +14,6 @@ namespace pr_04_05
             countryLookup[31] = "Netherlands";
             countryLookup[55] = "Brazil";
             countryLookup[64] = "New Zealand";
-
             foreach (KeyValuePair<int, String> item in countryLookup)
             {
                 int code = item.Key;
